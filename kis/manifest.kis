@@ -1,0 +1,6 @@
+name: PyCalc experimental package
+version: 1.0.0
+license: MIT
+depends: python3
+description: A simple package manager
+arch: all

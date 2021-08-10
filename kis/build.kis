@@ -1,0 +1,2 @@
+chmod +x pycalc.py 
+mv pycalc.py /usr/bin/pycalc
