@@ -1,2 +1,2 @@
-chmod +x pycalc.py 
-mv pycalc.py /usr/bin/pycalc
+chmod +x /tmp/pycalc.kis/pycalc/src/pycalc.py
+mv /tmp/pycalc.kis/pycalc/src/pycalc.py /usr/bin/pycalc
